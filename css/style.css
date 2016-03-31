@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
+body{
+  font-family: 'Raleway';
+  background-color: #aaa;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#superman {
+  visibility: hidden;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 40px;
+  margin-bottom: 0;
+}
+
+span.vs{
+  font-size: 20px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+span.superman {
+  color: #b20000;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 0;
+  letter-spacing: 2px;
+  margin-left: -30px;
+}
